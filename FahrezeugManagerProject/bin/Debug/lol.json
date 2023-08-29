@@ -1,0 +1,58 @@
+[
+  {
+    "Vorname": "davis",
+    "Nachname": "stoni",
+    "Adress": "",
+    "Plz": "",
+    "Wohnort": null
+  },
+  {
+    "Vorname": "silvan",
+    "Nachname": "Hegner",
+    "Adress": "",
+    "Plz": "",
+    "Wohnort": null
+  },
+  {
+    "Vorname": "Yaron ",
+    "Nachname": "Küng",
+    "Adress": "",
+    "Plz": "",
+    "Wohnort": null
+  },
+  {
+    "Vorname": "elier ",
+    "Nachname": "ruetsche",
+    "Adress": "",
+    "Plz": "",
+    "Wohnort": ""
+  },
+  {
+    "Vorname": "joel ",
+    "Nachname": "hegner",
+    "Adress": "",
+    "Plz": "",
+    "Wohnort": ""
+  },
+  {
+    "Vorname": "mario",
+    "Nachname": "säbi",
+    "Adress": "kikipapastrasse 10",
+    "Plz": "43623",
+    "Wohnort": "Rüti"
+  },
+  {
+    "Vorname": "davido",
+    "Nachname": "stoni",
+    "Adress": "pipikakastreet",
+    "Plz": "8853",
+    "Wohnort": "galgenen"
+  },
+  {
+    "Vorname": "bens",
+    "Nachname": "sevic ",
+    "Adress": "luadasstreet 10",
+    "Plz": "8246",
+    "Wohnort": "Rapperswil"
+  }
+]
